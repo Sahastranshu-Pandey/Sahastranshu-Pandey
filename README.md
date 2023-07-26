@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahastranshu Pandey</h1>
 <h3 align="center">A Budding Bioinformatician and a Clinical Data Science enthusiast</h3>
-
+<img align="right" alt="Data Analysis" width="500" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif"> 
 <p align="left"> <a href="https://twitter.com/sahastranshupa3" target="blank"><img src="https://img.shields.io/twitter/follow/sahastranshupa3?logo=twitter&style=for-the-badge" alt="sahastranshupa3" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
